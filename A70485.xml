@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Major the Right Honourable the Lord Major having taken into his serious consideration the many dreadful afflictions, which this city hath of late years suffered ...</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70485</idno>
+            <idno type="STC">Wing L2885W</idno>
+            <idno type="STC">ESTC R19293</idno>
+            <idno type="EEBO-CITATION">12561171</idno>
+            <idno type="OCLC">ocm 12561171</idno>
+            <idno type="VID">63195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 768:2 or 1745:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Major the Right Honourable the Lord Major having taken into his serious consideration the many dreadful afflictions, which this city hath of late years suffered ...</title>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>Clayton, Robert, Sir, 1629-1707.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ..., printer to the honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information taken from first paragraph of text.</note>
+                  <note>This item appears at reel 768:2 as Wing L2883A (number cancelled in Wing 2nd ed.), and as Wing (2nd ed.) L2335W at reel 1745:12.</note>
+                  <note>Broadside; copy at reel 1745:12 has been cut into two leaves.</note>
+                  <note>"Dated at the Guild-hall London, the 29th day of November 1679 ..."</note>
+                  <note>Reproduction of originals in Huntington Library and Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:63195:1"/>
+            <!-- PDF PAGE 31 -->
+            <head type="illustration">
+               <figure>
+                  <figDesc>coat of arms of the City of London</figDesc>
+               </figure>
+            </head>
+            <byline>By the Major.</byline>
+            <p>
+               <seg rend="decorInit">T</seg>He Right Honourable the Lord Major having taken into his ſerious Conſideration the many dreadful Afflictions, which this City hath of late years ſuffered, by a raging Plague, a moſt un<g ref="char:EOLhyphen"/>heard of devouring Fire, and otherwiſe: And juſtly fearing that the ſame have been occaſioned by the many hainous crying Sins and Provocations to the Divine Majeſty: And his Lordſhip alſo conſidering the preſent dangers of greater miſchiefs and miſery which ſeem ſtill to threat<g ref="char:EOLhyphen"/>en this City, if the execution of the Righteous Iudgments of God Almighty be not prevented by an univerſal timely Repentance and Reformation: He hath therefore thought it one duty of his Office, being intruſted to take all poſſible care for the good Government, Peace, and Wel<g ref="char:EOLhyphen"/>fare of this City, Firſt, to pray and perſwade all and every the Inhabitants thereof to reform in themſelves and Families all Sins and Enormities whereof they know themſelves to be guilty: And if neither the Fear of the Great God nor of his Impending Iudgments ſhall prevail upon them; He ſhall be obliged to let them know, that as he is their Chief Magiſtrate, he ought not to bear the Sword in vain: And therefore doth reſolve by Gods Grace to take the Aſſiſtance of his Brethren the Aldermen, and to require the aid of all the Officers of this City in their ſeveral places, to Puniſh and Suppreſs according to the Laws of the Land and the good Cuſtoms of this City, thoſe Scandalous and Provoking Sins which have of late encreaſed and abounded amongſt Vs, even without ſhame, to the diſhonour of Chriſtianity and the Scandal of the Government of this City, heretofore ſo famous over the World, for its Piety, Sobriety, and good Order.</p>
+            <p>To the end therefore that the Laws may become a Terror unto Ebil doers, and that ſuch, in whoſe hearts the fear of God, and the love of Virtue ſhall not prevail, (being fore-warned) may amend their Lives for fear of puniſhment; His Lordſhip hath thought fit to remember them of ſeveral Penalties provided by Law againſt notorious Offenders: As alſo all Conſtables and Publick Officers (who are to put the ſaid Laws in Execution) of their Duty therein;</p>
+            <pb facs="tcp:63195:2"/>
+            <!-- PDF PAGE 32 -->
+            <p n="1">
+               <hi>Firſt,</hi> Every Profane Curſer and Swearer ought to be Puniſhed by the payment of <hi>Twelve Pence</hi> for every Oath, and if the ſame cannot be Levied upon the Offenders Goods, then he is to ſit Three Hours in the Stocks.</p>
+            <p n="2">
+               <hi>Secondly,</hi> Every Drunkard is to pay for the firſt Offence <hi>Five Shillings:</hi> And in default thereof to ſit Six Hours in the Stocks, and for the ſecond Offence, to find Sureties for the good behaviour, or to be Committed to the Common Goal: And the like Puniſhment is to be in flicted upon all Common Haunters of Ale-houſes and Taverns, and Com<g ref="char:EOLhyphen"/>mon Gameſters, and Perſons juſtly ſuſpected to live by any unlawful means, having no viſible way to ſupport them<g ref="char:EOLhyphen"/>ſelves in their manner of living. And no Perſon is to ſit or continue Tipling or Drinking more than one Hour, un<g ref="char:EOLhyphen"/>leſs upon ſome Extraordinary Occaſion, in any Tavern, Victualling-houſe, Ale-houſe, or other Tipling-houſe, up<g ref="char:EOLhyphen"/>on the penalty of <hi>Ten Shillings</hi> for every Offence upon the Maſter of ſuch Houſe, and upon the Perſon that ſhall ſo continue drinking, <hi>Three Shillings Four Pence.</hi>
+            </p>
+            <p n="3">
+               <hi>Thirdly,</hi> Every Perſon maintaining Houſes ſuſpected of Common Bawdry, by the Law is to find Sureties for the good behaviour; likewiſe all Night-Walkers and Perſons uſing that impudent and inſufferable practice of attempting others modeſty in the Streets, are to be puniſhed at the Houſe of Correction and find Sureties for the good behaviour.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> All Perſons uſing any unlawful Exerciſes on the Lords Day, or Tipling in Taverns, Inns or Ale-houſes, and Coffee-houſes, during Divine Service on that day, are to forfeit <hi>Three Shillings Four Pence,</hi> for every Of<g ref="char:EOLhyphen"/>fence, to be Levied by diſtreſs, and where none can be had, to ſit three hours in the Stocks: And every Vintner, Inn-keeper or Ale-houſe keeper, that ſhall ſuffer any ſuch Drinking or Tipling in his Houſe, is to forfeit <hi>Ten Shillings,</hi> for every Offence: And no Perſon may ſit in the Streets, with Herbs, Fruits, or other things, to expoſe them to Sale, nor no Hackney Coachman may ſtand or ply in the Streets on that day.</p>
+            <p>And therefore all Conſtables and other Officers, whom it doth or may concern, are required, according to their Oaths ſolemnly taken in that behalf, to take care for diſcovering and bringing to Puniſhment whoſoever ſhall Of<g ref="char:EOLhyphen"/>fend in any of the Premiſes: And for that end they are to enter into any ſuſpected Houſes before mentioned, to ſearch for any ſuch diſorderly Perſons as ſhall he found misbehaving themſelves, or doing contrary to the ſaid Laws, and to Levy the Penalties, and bring the Offenders before ſome of his Majeſties Iuſtices of the Peace of this City, to be dealt withall according to Law.</p>
+            <p>And whereas there are other diſorders of another nature, very Diſhonourable and a great Scandal to the Govern<g ref="char:EOLhyphen"/>ment of this City, and very prejudicial to the Trade and Commerce of the ſame: His Lordſhip therefore is reſolved by Gods Bleſſing with the Aſſiſtance of his Brethren the Aldermen, to uſe his utmoſt endeavour to prevent the ſame, by putting in Execution the good and wholſome Laws in force for that purpoſe, with all Strictneſs and ſeverity; Some of which he hath thought fit to enumerate with the Duties and Penalties upon every Conſtable and other Of<g ref="char:EOLhyphen"/>ficers concerned therein.</p>
+            <p n="1">As <hi>Firſt,</hi> the great reſort of Rogues, Vagrants, Idle Perſons, and Common Beggars, Peſtring and Anoying the Streets and Common Paſſages, and all places of Yublick Meetings and reſort, againſt whom very good proviſion is made by the Law, <hi>viz.</hi>
+            </p>
+            <p>That all ſuch Perſons ſhall be openly Whipped, and forthwith ſent from Pariſh to Pariſh, to the place where He or She was born, if known; if not, to the place where He or She laſt dwelt for the ſpace of one Year, to be ſet to work; or not being known where He or She was born or dwelt, then to be ſent to the Pariſh where He or She laſt paſſed through without puniſhment.</p>
+            <p>That every Conſtable that ſhall not do his beſt Endeavour for the Apprehenſion of ſuch Vagabond, Rogue, or
+<pb facs="tcp:63195:3"/>
+               <!-- PDF PAGE 33 -->Sturdy Beggar, and cauſe Him or Her to be puniſhed or conveyed according to Law, ſhall forfeit <hi>Ten Shillings</hi> for eve<g ref="char:EOLhyphen"/>ry default.</p>
+            <p n="2">
+               <hi>Secondly,</hi> The not Paving and Cleanſing of the Streets: The redreſſing whereof being by a late Act of Parlia<g ref="char:EOLhyphen"/>ment put into Commiſſioners appointed by Common Council His Lordſhip doth hereby recommend the ſame to the Deputies and Common Council of the ſeveral Wards within this City, to uſe their utmoſt diligence in that affair, and eſpecially to mind their reſpective Commiſſioners of the Duty incumbent upon them, and of the daily Damage which the City ſuffers by the neglect thereof. And his Lordſhip doth declare he will appear at the ſaid Commiſſion of <hi>Sewers</hi> as often as his more Vrgent Occaſions will give him leave, and doth expect ſuch Attendance of the other Com<g ref="char:EOLhyphen"/>miſſioners as may render the Act more effectual than hitherto it hath been.</p>
+            <p n="3">
+               <hi>Thirdly,</hi> The neglect of the Inhabitants of this City, in hanging and keeping out their Lights at the accuſtomed hours, according to the good and Antient uſage of this City, and Acts of Common Council in that behalf.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> The not ſetting and continuing the Watches at ſuch hours, and in ſuch Numbers, and in ſuch ſober and orderly manner in all other reſpects; as by the Acts of Common Council in that behalf is directed and appointed.</p>
+            <p>And his Lordſhip doth ſtrictly require the Fellowſhip of Carmen, to be very careful in the due obſervance of the good and wholſome Rules, and Orders, which have been made for their regulation: His Lordſhip intending ſeverely to inflict the Penalties impoſed in default thereof.</p>
+            <p>And to the end that no Conſtable or other Officers or Miniſters of Iuſtice may be any ways diſcouraged in their Lawful Diligent and Vigorous Proſecution of the Premiſes: It is provided, That if they or any of them ſhall be re<g ref="char:EOLhyphen"/>ſiſted, in the juſt and lawful Execution of their Charge and Duty, or in any wiſe Affronted or Abuſed, they ſhall be encouraged, maintained, and vindicated by the Iuſtice, order, and Authority of his Lordſhip and the Court of Alder<g ref="char:EOLhyphen"/>men; and the Offenders Proſecuted and Puniſhed according to Law.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at the <hi>Guild-hall London,</hi>
+                  </hi> 
+                  <date>the 29th. day of <hi>November</hi> 1679 in the 31 year of the Reign of our Sovereign Lord CHARLES the Second,</date> 
+                  <hi>by the grace of God of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+                  </hi>
+               </dateline>
+               <hi>God ſave the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> at his Houſe in St. <hi>Bartholomew Cloſe;</hi> Printer to the Honourable City of <hi>LONDON,</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
